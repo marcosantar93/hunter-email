@@ -1,3 +1,7 @@
+## Hunter Email
+
+This is a practice project which involes a SPA using React and a [third party API](https://hunter.io/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
